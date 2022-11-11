@@ -2,11 +2,9 @@
 
 💬 My name is Øyvind, and I am a student at Noroff - School of technology and digital media. I am studying front-end development!
 
-🌱 I am currently finishing my first of two years of school.
+😄 I feel confident in html, css and js.
 
-😄 I feel confident in html, css and js, but still have a way to go before I can call myself an expert.
-
-🔭 In addition to the languages mentioned above, I am looking into leaning Python.
+🔭 In addition to the languages mentioned above, I am looking into learning Python.
 
 📫 You may reach me via mail: oyvind.meldahl |at| gmail.com
 
