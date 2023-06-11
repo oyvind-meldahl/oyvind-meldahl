@@ -5,8 +5,6 @@ Hello, I'm Øyvind, a passionate frontend developer who recently graduated from 
 
 - 🌱 I’m currently learning **React, JS and Python.**
 
-- 👨‍💻 All of my projects are available at [LINK](LINK)
-
 - 📫 How to reach me **oyvind.meldahl@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
