@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Øyvind</h1>
 <h3 align="center">A frontend developer from Norway</h3>
 
+Hello, I'm Øyvind, a passionate frontend developer who recently graduated from Noroff. My journey in the world of technology has allowed me to build a strong foundation in HTML, CSS, and JavaScript, which I continually expand on by exploring modern frameworks and libraries such as React and Vue.js. My education at Noroff has provided me with a diverse set of skills that range from user interface design to optimizing frontend performance. I'm always looking forward to opportunities for growth and learning, and I have a dedication to creating user-friendly and efficient web solutions. If you're interested in discussing a project or collaboration, feel free to reach out!
+
 - 🌱 I’m currently learning **React, JS and Python.**
 
 - 👨‍💻 All of my projects are available at [LINK](LINK)
